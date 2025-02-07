@@ -1,3 +1,2 @@
 #!/bin/bash
-cat "Applications    Documents   Dropbox Movies Pictures 
-Desktop Downloads   Library Music Public"
+cat "Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public"
